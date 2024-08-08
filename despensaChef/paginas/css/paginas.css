@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+section {
+    border: 2px solid black;
+    display: flex;
+    align-items: flex-start;
+    margin-top: 300px;
+    margin-left: 25%;
+    margin-right: 25%;
+    flex-direction: column;
+    padding: 8px;
+}
+
+h1 {
+    align-self: center;
+}
+
+a {
+    color: blue;
+}
+
+a:hover {
+    color: red;
+}
